@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CassianoViniciusdaSilvaRodrigues/CassianoViniciusdaSilvaRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Cassiano Vinicius da Silva Rodrigues
+<div>
+	<a href="https://github.com/CassianoViniciusdaSilvaRodrigues">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CassianoViniciusdaSilvaRodrigues&show_icons=true&theme=buefy&include_all_commits=true">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CassianoViniciusdaSilvaRodrigues&layout=compact&theme=buefy">
+</div>
